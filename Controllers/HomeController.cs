@@ -1,15 +1,10 @@
-using E_Commerce.Models;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace E_Commerce.Controllers
-{
-    //wHH
+
+
+  
+
+    
+ main
 
     public class HomeController : Controller
     {
