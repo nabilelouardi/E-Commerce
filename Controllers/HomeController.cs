@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
->>>>>> main
+
 //SARA ZAIM SASSI
 
     public class HomeController : Controller
