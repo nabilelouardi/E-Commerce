@@ -49,16 +49,6 @@ namespace E_Commerce.Controllers
 
 
 
-            //gramisalma
-            //HADEG  Hayat g7
-
-
-
-            return a + b;
-
-            //release
-
-
         }
     }
 }
