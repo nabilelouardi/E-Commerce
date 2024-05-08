@@ -10,8 +10,9 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
->>>>>> main
-//SARA ZAIM SASSI
+    //ZENTAR YASSINE
+    //ZENTAR YASSINE
+    //ZENTAR YASSINE
 
     public class HomeController : Controller
     {
@@ -42,8 +43,7 @@ namespace E_Commerce.Controllers
         public int somme (int a,int b)
 
         {
-            //Ayoub benabdoulwahid
-            //Wissal chakir
+            
             return a + b;
           
         }
