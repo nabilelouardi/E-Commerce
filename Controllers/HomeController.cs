@@ -38,23 +38,31 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
-        /// le code corrige 
-        public int somme (int a,int b)
+        /// le code corrige <summary>
+        /// le code corrige
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns> 
+        /// corrige par soufian chahir
+        public int somme(int a, int b)
+        {
 
             int s = a / b;
-
+            //GFD
 
             return s + b;
 
 
 
 
-        {
-            //Ayoub benabdoulwahid
-            //Wissal chakir
-            return a + b;
-          
+            {
+                //Ayoub benabdoulwahid
+                //Wissal chakir
 
+
+
+            }
         }
     }
 }
