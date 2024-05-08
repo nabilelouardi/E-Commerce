@@ -41,12 +41,21 @@ namespace E_Commerce.Controllers
         /// le code corrige 
         public int somme (int a,int b)
 
+            int s = a / b;
+
+
+            return s + b;
+
+
+
+
         {
             //Ayoub benabdoulwahid
             //Wissal chakir 
             //Adam Fakak
             return a + b;
           
+
         }
     }
 }
