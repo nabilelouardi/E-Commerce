@@ -1,4 +1,4 @@
-﻿using E_Commerce.Models;
+using E_Commerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
+
+//SARA ZAIM SASSI
 
     public class HomeController : Controller
     {
@@ -38,9 +40,6 @@ namespace E_Commerce.Controllers
         }
         /// le code corrige 
         public int somme (int a,int b)
-        {
-
-
 
             int s = a / b;
 
@@ -48,6 +47,13 @@ namespace E_Commerce.Controllers
             return s + b;
 
 
+
+
+        {
+            //Ayoub benabdoulwahid
+            //Wissal chakir
+            return a + b;
+          
 
         }
     }
