@@ -51,7 +51,8 @@ namespace E_Commerce.Controllers
 
         {
             //Ayoub benabdoulwahid
-            //Wissal chakir
+            //Wissal chakir 
+            //Adam Fakak
             return a + b;
           
 
