@@ -9,24 +9,13 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
-zineeeb
-//oumaiamaaa
 
-oum
-//oumaima
-main
 
-    //modifier
-main
-    //modifff
-//abiosda
-//vlooog
-
-    public class HomeController : Controller    
+    public class HomeController : Controller
     {
-    
+
         private readonly ILogger<HomeController> _logger;
-       
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -48,14 +37,16 @@ main
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         /// le code corrige 
-        public int somme (int a,int b){
-
-
+        public int somme(int a, int b)
         {
 
-            int s = a / 0;
-            return s + b ;
 
+            {
+
+                int s = a / 0;
+                return s + b;
+
+            }
         }
     }
 }
