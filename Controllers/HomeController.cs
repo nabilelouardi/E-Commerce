@@ -10,16 +10,10 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
-//oumaima_lem
 
     public class HomeController : Controller
     {
- MawadaEnnaciri
-        //mawada
-    
 
-
- main
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -49,15 +43,9 @@ namespace E_Commerce.Controllers
 
             {
 
-
-            return a + b;
-          
-          
-          // oudghiri idrssi ayman
-
-                int s = a / 0;
+              
+                int s = a / 1;
                 return s + b;
-
 
             }
         }
