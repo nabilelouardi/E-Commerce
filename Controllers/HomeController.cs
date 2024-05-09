@@ -42,14 +42,14 @@ namespace E_Commerce.Controllers
         }
         /// le code corrige 
         public int somme (int a,int b){
- khadijaAB
+
            
 
             //Ayoub benabdoulwahid
             //Wissal chakir 
             //Adam Fakak
             //Boussakssou Abdessamad
- main
+
             return a + b;
           
 
