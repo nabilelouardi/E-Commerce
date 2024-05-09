@@ -42,7 +42,7 @@ namespace E_Commerce.Controllers
 
             int a, b, s = 0;
             s = a + b;
-            return a + b;
+            return s;
         }
     }
 }
