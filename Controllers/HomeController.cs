@@ -13,12 +13,7 @@ namespace E_Commerce.Controllers
 
     public class HomeController : Controller
     {
- //MawadaEnnaciri
-        //mawada
-    
 
-
- main
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -48,21 +43,9 @@ namespace E_Commerce.Controllers
 
             {
 
-                //oumaima_lemadem1
-                    int s=0
-                    s = a + b;
-                   
-          
-          
-          
-          
-          
-          // oudghiri idrssi ayman
-
+              
                 int s = a / 1;
                 return s + b;
-
-
 
             }
         }
