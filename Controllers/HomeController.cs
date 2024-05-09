@@ -50,7 +50,7 @@ namespace E_Commerce.Controllers
         {
             int s = a + b;
             return s;
- 
+        }
         public int sommeDounia(int a, int b)
         {
             int a, b, s = 0;
@@ -58,5 +58,12 @@ namespace E_Commerce.Controllers
             return s;
 
         }
+        public int sommeEttaoubbali(int a, int b)
+        {
+            int s = a + b;
+            return s;
+        }
+
+
     }
 }
