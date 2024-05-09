@@ -46,5 +46,10 @@ namespace E_Commerce.Controllers
                
                 return a + b;
         }
+        public int sommeMahid(int a, int b)
+        {
+            int s = a + b;
+            return s;
+        }
     }
 }
