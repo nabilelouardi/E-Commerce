@@ -53,16 +53,10 @@ namespace E_Commerce.Controllers
  
         public int sommeDounia(int a, int b)
         {
-<<<<<<< HEAD
             int a, b, s = 0;
             s = a + b;
             return s;
-=======
 
-
-       
- 
->>>>>>> ef6a65f39b1f1ce674e2e8a6f36dfaf9602e8738
         }
     }
 }
