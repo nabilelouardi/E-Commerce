@@ -14,6 +14,9 @@ namespace E_Commerce.Controllers
     //modifff
 //abiosda
 //vlooog
+/// <summary>
+/// github
+/// </summary>
 
     public class HomeController : Controller
     {
