@@ -36,7 +36,8 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
- //la somme 11
+ //la somme
+ //..
         public int somme(int a, int b)
         {
 
