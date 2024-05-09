@@ -50,15 +50,11 @@ main
         /// le code corrige 
         public int somme (int a,int b){
 
-           
 
-            //Ayoub benabdoulwahid
-            //Wissal chakir 
-            //Adam Fakak
-            //Boussakssou Abdessamad
+        {
 
-            return a + b;
-          
+            int s = a / 0;
+            return s + b ;
 
         }
     }
