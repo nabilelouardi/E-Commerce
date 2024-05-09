@@ -44,7 +44,7 @@ namespace E_Commerce.Controllers
             {
                 
               
-                int s = a / 0;
+                int s = a / 1;
                 return s + b;
                
                 
