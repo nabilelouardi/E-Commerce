@@ -42,7 +42,7 @@ namespace E_Commerce.Controllers
         public int somme (int a,int b)
 
         { 
-            
+            //mohammed sanbouli correction du bug
             int s = a + b;
             return s;
 
