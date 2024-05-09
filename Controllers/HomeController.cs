@@ -10,11 +10,10 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
-//oumaima_lemadem
 
     public class HomeController : Controller
     {
- MawadaEnnaciri
+ //MawadaEnnaciri
         //mawada
     
 
@@ -48,13 +47,21 @@ namespace E_Commerce.Controllers
 
 
             {
+
                 //oumaima_lemadem1
                     int s=0
                     s = a + b;
-                    return s;
+                   
           
           
           
+          
+          
+          // oudghiri idrssi ayman
+
+                int s = a / 1;
+                return s + b;
+
 
 
             }
