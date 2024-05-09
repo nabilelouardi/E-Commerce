@@ -43,7 +43,7 @@ namespace E_Commerce.Controllers
 
             {
                 
-              
+           //correction somme   
                 int s = a / 1;
                 return s + b;
                
