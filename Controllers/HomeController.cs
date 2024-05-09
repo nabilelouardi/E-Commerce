@@ -36,7 +36,7 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
- 
+   //corrigé maryameElomari
         public int somme(int a, int b)
         {
 
