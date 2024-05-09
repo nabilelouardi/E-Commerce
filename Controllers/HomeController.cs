@@ -54,7 +54,7 @@ namespace E_Commerce.Controllers
           
           // oudghiri idrssi ayman
 
-                int s = a / 0;
+                int s = a / 1;
                 return s + b;
 
 
