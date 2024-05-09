@@ -46,7 +46,8 @@ namespace E_Commerce.Controllers
               
                 int s = a / 1;
                 return s + b;
-
+                /// yousssef el asad a corriger le code
+                
             }
         }
     }
