@@ -23,7 +23,7 @@ main
 //vlooog
 
     public class HomeController : Controller    
-    {
+    {//mawada hjjygfh
     
         private readonly ILogger<HomeController> _logger;
        
