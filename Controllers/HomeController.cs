@@ -14,6 +14,7 @@ namespace E_Commerce.Controllers
     //newmodif
     public class HomeController : Controller
     {
+        // J'ai corrigé le bug
         // test jadid 
         // comment new v2 
         private readonly ILogger<HomeController> _logger;
