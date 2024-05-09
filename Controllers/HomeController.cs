@@ -40,11 +40,11 @@ namespace E_Commerce.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         /// le code corrige 
-        public int somme(int a, int b)
+        public int sommeWissal(int a, int b)
         {
 
-                int s = a / 0;
-                return s + b;
+               
+                return a + b;
         }
     }
 }
