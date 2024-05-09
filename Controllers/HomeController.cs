@@ -10,14 +10,18 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
-
-//SARA ZAIM SASSI
+//oumaima_lem
 
     public class HomeController : Controller
     {
+ MawadaEnnaciri
+        //mawada
     
+
+
+ main
         private readonly ILogger<HomeController> _logger;
-       
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -39,13 +43,23 @@ namespace E_Commerce.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         /// le code corrige 
-        public int somme (int a,int b)
-
+        public int somme(int a, int b)
         {
 
-            int s = a / 0;
-            return s + b ;
 
+            {
+
+
+            return a + b;
+          
+          
+          // oudghiri idrssi ayman
+
+                int s = a / 0;
+                return s + b;
+
+
+            }
         }
     }
 }
