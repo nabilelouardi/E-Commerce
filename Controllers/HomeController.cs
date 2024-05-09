@@ -39,6 +39,10 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+ //la somme
+ //..
+
         /// le code corrige 
         public int sommeWissal(int a, int b)
         {
@@ -51,11 +55,29 @@ namespace E_Commerce.Controllers
             int s = a + b;
             return s;
  
+
+
+        public int somme(int a, int b)
+
         public int sommeDounia(int a, int b)
+
         {
+
+
             int a, b, s = 0;
             s = a + b;
             return s;
+
+
+
+       
+ 
+
+
+            int a, b, s = 0;
+            s = a + b;
+            return s;
+
 
         }
     }
