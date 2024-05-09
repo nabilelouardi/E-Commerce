@@ -9,11 +9,20 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
+zineeeb
+//oumaiamaaa
 
+oum
+//oumaima
+main
 
-//SARA ZAIM SASSI
+    //modifier
+main
+    //modifff
+//abiosda
+//vlooog
 
-    public class HomeController : Controller
+    public class HomeController : Controller    
     {
     
         private readonly ILogger<HomeController> _logger;
@@ -39,7 +48,8 @@ namespace E_Commerce.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
         /// le code corrige 
-        public int somme (int a,int b)
+        public int somme (int a,int b){
+
 
         {
 
