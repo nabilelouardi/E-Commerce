@@ -45,21 +45,8 @@ namespace E_Commerce.Controllers
         /// le code corrige 
         public int somme(int a, int b)
         {
-
-
-            {
-
-
+            //salim elomari alaoui
             return a + b;
-          
-          
-          // oudghiri idrssi ayman
-
-                int s = a / 0;
-                return s + b;
-
-
-            }
         }
     }
 }
