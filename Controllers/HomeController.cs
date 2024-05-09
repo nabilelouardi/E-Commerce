@@ -14,9 +14,6 @@ namespace E_Commerce.Controllers
     //modifff
 //abiosda
 //vlooog
-/// <summary>
-/// github
-/// </summary>
 
     public class HomeController : Controller
     {
@@ -48,11 +45,8 @@ namespace E_Commerce.Controllers
             //Ayoub benabdoulwahid
             //Wissal chakir 
             //Adam Fakak
-            //ahmed zaher changement 
-
+            //ahmed zaher g4
             return a + b;
-          
-
         }
     }
 }
