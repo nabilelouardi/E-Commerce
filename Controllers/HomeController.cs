@@ -48,8 +48,12 @@ namespace E_Commerce.Controllers
             //Ayoub benabdoulwahid
             //Wissal chakir 
             //Adam Fakak
+    <<<<<<< wissalhimmi
+            //wissal
+  =======
             //Boussakssou Abdessamad
  main
+    >>>>>>> main
             return a + b;
           
 
