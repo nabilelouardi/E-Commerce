@@ -60,19 +60,7 @@ namespace E_Commerce.Controllers
 =======
 
 
-            {
-                
- loubnaelbzioui
-           //correction somme   
-                int s = a / 1;
-
-              
-                int s = a / 0;
-main
-                return s + b;
-               
-                
-            }
+       
  
 >>>>>>> ef6a65f39b1f1ce674e2e8a6f36dfaf9602e8738
         }
