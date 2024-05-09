@@ -15,7 +15,7 @@ namespace E_Commerce.Controllers
 //abiosda
 //vlooog
 
-    public class HomeController : Controller
+    public class HomeController : Controller    
     {
     
         private readonly ILogger<HomeController> _logger;
@@ -42,10 +42,18 @@ namespace E_Commerce.Controllers
         }
         /// le code corrige 
         public int somme (int a,int b){
+ khadijaAB
+           
+
             //Ayoub benabdoulwahid
             //Wissal chakir 
             //Adam Fakak
+    <<<<<<< wissalhimmi
             //wissal
+  =======
+            //Boussakssou Abdessamad
+ main
+    >>>>>>> main
             return a + b;
           
 
