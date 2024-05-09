@@ -1,4 +1,4 @@
-﻿using E_Commerce.Models;
+using E_Commerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -9,15 +9,13 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
-    //newmodification
-    // release
-    //newmodif
+
+
     public class HomeController : Controller
     {
-        // test jadid 
-        // comment new v2 
+
         private readonly ILogger<HomeController> _logger;
-        //my first change gfgff.
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -37,6 +35,18 @@ namespace E_Commerce.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        /// le code corrige 
+        public int somme(int a, int b)
+        {
+
+
+            {
+
+                int s = a / 0;
+                return s + b;
+
+            }
         }
     }
 }
