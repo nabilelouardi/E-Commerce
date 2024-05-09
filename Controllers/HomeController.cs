@@ -42,7 +42,7 @@ namespace E_Commerce.Controllers
 
 
             {
-
+                // yasser wa here a cooriger la methode
               
                 int s = a / 1;
                 return s + b;
