@@ -48,15 +48,13 @@ namespace E_Commerce.Controllers
 
 
             {
-
-
-            return a + b;
+                //oumaima_lemadem
+                    int s=0
+                    s = a + b;
+                    return s;
           
           
-          // oudghiri idrssi ayman
-
-                int s = a / 0;
-                return s + b;
+          
 
 
             }
