@@ -36,17 +36,24 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+ zinebfakkar
+        // commentairee
         /// le code corrige 
+
+        // zineb corrige
+        // le code corrige 
+ main
         public int somme(int a, int b)
         {
 
 
             {
-
+                // yasser wa here a cooriger la methode
               
                 int s = a / 1;
                 return s + b;
-
+                /// yousssef el asad a corriger le code
+                
             }
         }
     }
