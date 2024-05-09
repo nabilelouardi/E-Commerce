@@ -41,6 +41,7 @@ namespace E_Commerce.Controllers
         /// le code corrige 
         public int somme (int a,int b)
 
+        { 
             int s = a / b;
 
 
@@ -49,11 +50,6 @@ namespace E_Commerce.Controllers
 
 
 
-        {
-            //Ayoub benabdoulwahid
-            //Wissal chakir
-            return a + b;
-          
 
         }
     }
