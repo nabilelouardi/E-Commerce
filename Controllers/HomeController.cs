@@ -9,8 +9,7 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
-//Soul
-//oumaima_lem
+
 
     public class HomeController : Controller
     {
