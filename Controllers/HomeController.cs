@@ -57,8 +57,13 @@ namespace E_Commerce.Controllers
 
             {
                 
+ loubnaelbzioui
+           //correction somme   
+                int s = a / 1;
+
               
                 int s = a / 0;
+main
                 return s + b;
                
                 
