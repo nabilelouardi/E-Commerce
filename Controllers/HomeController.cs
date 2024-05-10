@@ -120,5 +120,10 @@ namespace E_Commerce.Controllers
         {
             return a + b;
         }
+
+        public int sommejasserfnine(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
