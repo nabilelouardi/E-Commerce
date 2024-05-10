@@ -49,6 +49,11 @@ namespace E_Commerce.Controllers
         /// </summary>
         /// <param name="MASBAH EL MAHDI"></param>
         /// <returns></returns>
+        public int sommeLotfiSounny(int x, int y)
+        {
+            return x + y;
+        }
+
         public int sommeYounes(int x, int y)
         {
             return x + y;
