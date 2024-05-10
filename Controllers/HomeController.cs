@@ -44,10 +44,18 @@ namespace E_Commerce.Controllers
  //..
 
         /// le code corrige 
-        /// 
+        ///  <summary>
+        /// le code corrige 
+        /// </summary>
+        /// <param name="MASBAH EL MAHDI"></param>
+        /// <returns></returns>
         public int sommeYounes(int x, int y)
         {
             return x + y;
+        }
+        public int sommeEssayhOumaima(int o , int m)
+        {
+            return o + m;
         }
 
         public int sommeWissal(int a, int b)
@@ -106,7 +114,9 @@ namespace E_Commerce.Controllers
             return a + b;
         }
 
+
         public int sommeBelamine(int a, int b)
+
         {
             return a + b;
         }
