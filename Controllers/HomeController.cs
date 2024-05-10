@@ -105,5 +105,14 @@ namespace E_Commerce.Controllers
         public int sommeHraiche(int a, int b) {
             return a + b;
         }
+
+        public int jouidasoufiane(int a, int b)
+        {
+            return a + b;
+        }
+
+
     }
+
+
 }
