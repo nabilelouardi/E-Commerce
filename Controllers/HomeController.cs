@@ -44,6 +44,12 @@ namespace E_Commerce.Controllers
  //..
 
         /// le code corrige 
+        /// 
+        public int sommeYounes(int x, int y)
+        {
+            return x + y;
+        }
+
         public int sommeWissal(int a, int b)
         {
 
