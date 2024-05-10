@@ -91,6 +91,8 @@ namespace E_Commerce.Controllers
             return s;
         }
 
-
+        public int sommeHraiche(int a, int b) {
+            return a + b;
+        }
     }
 }
