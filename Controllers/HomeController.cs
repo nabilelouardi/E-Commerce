@@ -44,8 +44,19 @@ namespace E_Commerce.Controllers
  //..
 
         /// le code corrige 
-        /// 
+        ///
+        ///  <summary>
+        /// le code corrige 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
         public int sommeYounes(int x, int y)
+        {
+            return x + y;
+        }
+
+        public int sommeSalem(int x, int y)
         {
             return x + y;
         }
