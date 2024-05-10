@@ -59,7 +59,10 @@ namespace E_Commerce.Controllers
  
 
 
-        public int somme(int a, int b)
+        public int sommeOthmaneBoumya(int a, int b)
+        {
+            return a + b;
+        }
 
         public int sommeDounia(int a, int b)
 
