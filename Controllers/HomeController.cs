@@ -53,6 +53,11 @@ namespace E_Commerce.Controllers
         {
             return x + y;
         }
+
+        public int sommeSalem(int x, int y)
+        {
+            return x + y;
+        }
         public int sommeEssayhOumaima(int o , int m)
         {
             return o + m;
