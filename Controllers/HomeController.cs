@@ -14,6 +14,8 @@ namespace E_Commerce.Controllers
     // release
     //newCOm
     //Soukaina battah
+    //ILyas faraa-ettarh
+    //falah yassine 
 
     public class HomeController : Controller
     {
