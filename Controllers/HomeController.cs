@@ -83,6 +83,7 @@ namespace E_Commerce.Controllers
 
 
 
+
         public int sommeOthmaneBoumya(int a, int b)
         {
             return a + b;
@@ -116,6 +117,10 @@ namespace E_Commerce.Controllers
         }
 
         public int sommejasserfnine(int x, int y)
+        {
+            return x + y;
+        }
+        public int sommeaabidaya(int x, int y)
         {
             return x + y;
         }
