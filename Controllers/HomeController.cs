@@ -40,15 +40,20 @@ namespace E_Commerce.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
- //la somme
- //..
+        //la somme
+        //..
 
         /// le code corrige 
         ///  <summary>
         /// le code corrige 
         /// </summary>
-        /// <param name="MASBAH EL MAHDI"></param>
+        /// <param name="Nabil Bouchta"></param>
         /// <returns></returns>
+        /// 
+        public int sommeNabilBouchta(int n, int b)
+        {
+            return n + b;
+        }
         public int sommeLotfiSounny(int x, int y)
         {
             return x + y;
