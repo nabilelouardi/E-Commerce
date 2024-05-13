@@ -40,8 +40,8 @@ namespace E_Commerce.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
- //la somme
- //..
+        //la somme
+        //..
 
         /// le code corrige 
         ///  <summary>
@@ -49,6 +49,12 @@ namespace E_Commerce.Controllers
         /// </summary>
         /// <param name="MASBAH EL MAHDI"></param>
         /// <returns></returns>
+        /// 
+        public int sommeSohaibSoussi(int x, int y)
+        {
+            return x + y;
+        }
+
         public int sommeLotfiSounny(int x, int y)
         {
             return x + y;
