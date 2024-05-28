@@ -1,4 +1,4 @@
-﻿using E_Commerce.Models;
+using E_Commerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -9,19 +9,16 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
-    //loubna
-    //newmodification
-    // release
-    //newCOm
-    //Soukaina battah
+
+//oumaima_lem
 
     public class HomeController : Controller
     {
-        // test jadid    test sonard
-        // comment new v2 
-        //ouma comment1
+
+    
+
         private readonly ILogger<HomeController> _logger;
-        //my first change gfgff.
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -42,5 +39,7 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }
