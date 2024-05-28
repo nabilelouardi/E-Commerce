@@ -10,9 +10,12 @@ using System.Threading.Tasks;
 namespace E_Commerce.Controllers
 {
 
+//oumaima_lem
 
     public class HomeController : Controller
     {
+
+    
 
         private readonly ILogger<HomeController> _logger;
 
@@ -36,19 +39,7 @@ namespace E_Commerce.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
- 
-        public int somme(int a, int b)
-        {
 
 
-            {
-                
-              
-                int s = a / 0;
-                return s + b;
-               
-                
-            }
-        }
     }
 }
